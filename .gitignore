@@ -1,2 +1,2 @@
-*.dat # ignore all the files ending with this
-results/ # ignore everything in this directory 
+*.dat 
+results/
